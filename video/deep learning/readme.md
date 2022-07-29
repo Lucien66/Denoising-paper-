@@ -1,3 +1,23 @@
+Real-time Streaming Video Denoising with Bidirectional Buffers
+
+https://arxiv.org/pdf/2207.06937v1.pdf
+
+Unidirectional Video Denoising by Mimicking Backward Recurrent Modules with Look-ahead Forward Ones
+
+https://arxiv.org/pdf/2204.05532v2.pdf
+
+MANet: Improving Video Denoising with a Multi-Alignment Network
+
+https://arxiv.org/pdf/2202.09704v2.pdf
+
+NeRV: Neural Representations for Videos
+
+https://proceedings.neurips.cc//paper/2021/file/b44182379bf9fae976e6ae5996e13cd8-Paper.pdf
+
+Patch Craft: Video Denoising by Deep Modeling and Patch Matching
+
+https://openaccess.thecvf.com/content/ICCV2021/papers/Vaksman_Patch_Craft_Video_Denoising_by_Deep_Modeling_and_Patch_Matching_ICCV_2021_paper.pdf
+
 FastDVDnet: Towards Real-Time Deep Video Denoising Without Flow Estimation
 
 https://openaccess.thecvf.com/content_CVPR_2020/papers/Tassano_FastDVDnet_Towards_Real-Time_Deep_Video_Denoising_Without_Flow_Estimation_CVPR_2020_paper.pdf
