@@ -1,3 +1,23 @@
+Simple Baselines for Image Restoration
+
+https://arxiv.org/pdf/2204.04676v3.pdf
+
+HINet: Half Instance Normalization Network for Image Restoration
+
+https://arxiv.org/pdf/2105.06086v2.pdf
+
+SELECTIVE RESIDUAL M-NET FOR REAL IMAGE DENOISING
+
+https://arxiv.org/pdf/2203.01645v1.pdf
+
+Robust Deep Ensemble Method for Real-world Image Denoising
+
+https://arxiv.org/pdf/2206.03691v1.pdf
+
+Practical Deep Raw Image Denoising on Mobile Devices
+
+https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510001.pdf
+
 Universal Denoising Networks : A Novel CNN Architecture for Image Denoising
 
 https://openaccess.thecvf.com/content_cvpr_2018/papers/Lefkimmiatis_Universal_Denoising_Networks_CVPR_2018_paper.pdf
