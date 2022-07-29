@@ -2,6 +2,10 @@ Simple Baselines for Image Restoration
 
 https://arxiv.org/pdf/2204.04676v3.pdf
 
+Multiple Degradation and Reconstruction Network for Single Image Denoising via Knowledge Distillation
+
+https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Li_Multiple_Degradation_and_Reconstruction_Network_for_Single_Image_Denoising_via_CVPRW_2022_paper.pdf
+
 HINet: Half Instance Normalization Network for Image Restoration
 
 https://arxiv.org/pdf/2105.06086v2.pdf
