@@ -56,4 +56,4 @@ https://arxiv.org/pdf/1710.04026v2.pdf
 
 IDR: Self-Supervised Image Denoising via Iterative Data Refinement
 
-https://arxiv.org/pdf/2111.14358.pdf
+https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_IDR_Self-Supervised_Image_Denoising_via_Iterative_Data_Refinement_CVPR_2022_paper.pdf
